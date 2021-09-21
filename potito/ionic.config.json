@@ -1,0 +1,7 @@
+{
+  "name": "potito",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
